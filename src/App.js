@@ -1,10 +1,10 @@
 import "./App.css";
 
-import Intro from "/home/walker/Desktop/MANU/PORTFOLIO/my-app/src/Components/intro.js";
-import About from "/home/walker/Desktop/MANU/PORTFOLIO/my-app/src/Components/about.js";
-import Contact from "/home/walker/Desktop/MANU/PORTFOLIO/my-app/src/Components/contact.js";
-import Projects from "/home/walker/Desktop/MANU/PORTFOLIO/my-app/src/Components/projects.js";
-import Navbar from "/home/walker/Desktop/MANU/PORTFOLIO/my-app/src/Components/navbar.js";
+import Intro from "./Components/intro";
+import About from "./Components/about";
+import Contact from "./Components/contact";
+import Projects from "./Components/projects";
+import Navbar from "./Components/navbar";
 
 function App() {
   return (
