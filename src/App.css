@@ -1,0 +1,13 @@
+.navbar {
+    position: relative;
+    z-index: 999;
+    height: 61px;
+    width: 100%;
+    background-color: var(--nice-color);
+  }
+  
+  .sticky-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }

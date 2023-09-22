@@ -1,0 +1,83 @@
+:root {
+  --mainBg: #121212;
+  /* --mainBg: #232323; */
+  --nice-color: #ff004f;
+  --nav-color: #080808;
+  /* --text-color:#fffefe; */
+}
+html,
+body {
+  background-color: var(--mainBg);
+}
+.container {
+  height: 960px;
+  width: 100vw;
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+.line-1 {
+  position: absolute;
+  top: 230px;
+  font-size: 20px;
+  color: var(--nice-color);
+}
+.container > h2 {
+  margin: 5px;
+  font-size: 27px;
+  font-weight: 100;
+}
+.line-2 {
+  position: absolute;
+  top: 310px;
+}
+.line-3 {
+  position: absolute;
+  top: 340px;
+}
+.scroll {
+  position: absolute;
+  bottom: 260px;
+  font-size: 25px;
+}
+
+.line-4 {
+  font-family: "Indie Flower", cursive;
+  position: absolute;
+  top: 400px;
+  font-size: 27px;
+  /* font-weight:500; */
+  overflow: hidden;
+  border-right: 0.15em solid orange;
+  white-space: nowrap;
+  margin: 0;
+  letter-spacing: 0.15em;
+  animation: typing 3.5s steps(50, end), blink-caret 0.95s step-end infinite;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 30%;
+  }
+}
+
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: var(--nice-color);
+  }
+}
+
+.scroll-wheel {
+  position: absolute;
+  bottom: 200px;
+}
