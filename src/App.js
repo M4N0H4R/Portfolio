@@ -9,6 +9,7 @@ import Navbar from "./Components/navbar";
 function App() {
   return (
     <div className="App">
+    edited 
       <Navbar />
       <Intro />
       <About />
