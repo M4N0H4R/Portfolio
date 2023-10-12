@@ -18,7 +18,7 @@ function Projects() {
               title="Appointments Portal"
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/ManoharMahanthi/Appointments_portal"
+              href="https://github.com/M4N0H4R/Appointments_portal"
             >
               Github Link
             </a>
@@ -44,7 +44,7 @@ function Projects() {
               title="Neflix Clone"
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/ManoharMahanthi/Netflix-Clone"
+              href="https://github.com/M4N0H4R/Netflix-Clone"
             >
               Github Link
             </a>
@@ -68,7 +68,7 @@ function Projects() {
               title="Falcon 9"
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/ManoharMahanthi/Falcon-9"
+              href="https://github.com/M4N0H4R/Falcon-9"
             >
               Github Link
             </a>
@@ -94,7 +94,7 @@ function Projects() {
               title="Google Sheets API"
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/ManoharMahanthi/Google-Sheets-API"
+              href="https://github.com/M4N0H4R/Google-Sheets-API"
             >
               Github Link
             </a>
@@ -120,7 +120,7 @@ function Projects() {
               title="Discord Bot"
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/ManoharMahanthi/DiscordBot"
+              href="https://github.com/M4N0H4R/DiscordBot"
             >
               Github Link
             </a>
